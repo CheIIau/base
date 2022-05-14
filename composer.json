@@ -1,0 +1,16 @@
+{
+    "name": "cheiiau/php7test",
+    "description": "auction site",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "CheIIau",
+            "email": "rip.rulez123@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "swiftmailer/swiftmailer": "^6.3@dev"
+    }
+}
